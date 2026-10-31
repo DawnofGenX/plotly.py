@@ -55,7 +55,7 @@ fig.show()
 ### Plotly Express
 
 ```
-pip install plotly[express]
+pip install plotly[express] pandas
 ```
 
 ```python
